@@ -89,6 +89,3 @@ python app.py   # or streamlit run app.py
 * Inspired by modern **healthcare AI and sleep research**.
 
 ---
-
-
-Do you want me to do that?
